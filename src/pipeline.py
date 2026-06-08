@@ -84,4 +84,4 @@ def create_plots(df, output_dir="data"):
     plt.grid(True)
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, "wykres_sygnalu.png"), dpi=150)
-    plt.close()
+    
