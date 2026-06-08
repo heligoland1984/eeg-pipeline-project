@@ -8,6 +8,11 @@ Struktura danych oparta jest na wytycznych repozytoriów takich jak PhysioNet. W
 
 ## Instrukcja instalacji
 1. Upewnij się, że posiadasz środowisko Python w wersji min. 3.8.
-2. Zainstaluj wymagane pakiety uruchamiając komendę w terminalu:
-   bash
+2. Pobierz repozytorium:
+   git clone https://github.com/heligoland1984/eeg-pipeline-project
+3. Wejdź do katalogu:
+   cd eeg-pipeline-project
+4. Zainstaluj wymagane pakiety:
    pip install -r requirements.txt
+5. Uruchom
+   python main.py
