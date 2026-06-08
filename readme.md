@@ -7,7 +7,7 @@ Projekt implementuje automatyczny potok (pipeline) do przetwarzania surowych dan
 Struktura danych oparta jest na wytycznych repozytoriów takich jak PhysioNet. W celu zapewnienia niezawodności działania bez pobierania wielogigabajtowych plików binarnych, potok generuje oraz analizuje dedykowany, ustrukturyzowany sygnał zawierający symulację przejścia fal Alfa w fale Beta wraz z nałożonym szumem gaussowskim.
 
 ## Instrukcja instalacji  
-1. Upewnij się, że posiadasz środowisko Python w wersji min. 3.8.
+1. Upewnij się, że posiadasz środowisko Python w wersji min. 3.8.  
    `python --version`
 2. Pobierz repozytorium:  
    `git clone https://github.com/heligoland1984/eeg-pipeline-project`  
