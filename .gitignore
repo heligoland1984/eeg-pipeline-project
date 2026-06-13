@@ -1,2 +1,5 @@
 .DS_store
-.gitatributes
+**/.DS_store
+
+.gitattributes
+**/.gitattributes
